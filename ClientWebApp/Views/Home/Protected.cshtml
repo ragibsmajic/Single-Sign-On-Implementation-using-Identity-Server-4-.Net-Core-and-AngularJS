@@ -1,0 +1,66 @@
+﻿@using Microsoft.AspNetCore.Authentication
+
+@{
+    ViewData["Title"] = "Zasticena stranica sa Authorization Serverom";
+}
+
+@{
+
+
+    var access_token = await ViewContext.HttpContext.GetTokenAsync("access_token");
+    var id_token = await ViewContext.HttpContext.GetTokenAsync("id_token");
+    var refresh_token = await ViewContext.HttpContext.GetTokenAsync("refresh_token");
+
+
+}
+
+<div class="container">
+    <div class="row">
+        <div class="col-lg-12">
+            <h1 class="text-center">Zaštičena stranica - Korisnik je prijavljen</h1>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-12">
+            <h3 class="text-center">Informacije o dobijenim tokenima</h3>
+            <pre>
+<strong>Access Token:</strong> <span id="access_token">@access_token</span> <br />
+
+<strong>Id Token:</strong> <span id="id_token">@id_token</span> <br />
+
+<strong>Refresh Token:</strong> @refresh_token
+
+</pre>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-6">
+            <h3 class="text-center">Dekodirani Access Token</h3>
+            <pre id="access_token_decoded">
+                    
+            </pre>
+        </div>
+        <div class="col-lg-6">
+            <h3 class="text-center">Dekodirani Id Token</h3>
+            <pre id="id_token_decoded">
+                   
+                </pre>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-12">
+            <h3 class="text-center">Informacije o korisniku sa <i>"/connect/userinfo"</i> endpointa autorizacijskog servera</h3>
+            <pre>
+                        
+                    </pre>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-12">
+            <h3 class="text-center">Odgovor od Resource Servera nakon upita na <i>"/identity"</i> endpoint</h3>
+            <pre id="resource_server_response">
+                @ViewData["response"]           
+            </pre>
+        </div>
+    </div>
+</div>

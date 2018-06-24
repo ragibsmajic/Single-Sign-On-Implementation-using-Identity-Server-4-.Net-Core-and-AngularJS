@@ -1,0 +1,22 @@
+{
+  "name": "photostation",
+  "version": "1.0.0",
+  "description": "Photostation for SFF",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "CEOs",
+  "license": "ISC",
+  "dependencies": {
+    "angular": "^1.6.8",
+    "angular-route": "^1.6.8",
+    "angularjs-oauth2": "^1.2.1",
+    "bootstrap": "^3.3.7",
+    "font-awesome": "^4.7.0",
+    "jquery": "^3.2.1",
+    "jwt-decode": "^2.2.0",
+    "ngstorage": "^0.3.11",
+    "resource": "^0.8.1"
+  }
+}

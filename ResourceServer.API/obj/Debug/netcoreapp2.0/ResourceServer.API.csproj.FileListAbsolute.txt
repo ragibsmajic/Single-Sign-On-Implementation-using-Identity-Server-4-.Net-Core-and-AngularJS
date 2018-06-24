@@ -1,0 +1,33 @@
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\Projekat\AuthorizationServer\ResourceServer.API\bin\Debug\netcoreapp2.0\ResourceServer.API.deps.json
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\Projekat\AuthorizationServer\ResourceServer.API\bin\Debug\netcoreapp2.0\ResourceServer.API.runtimeconfig.json
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\Projekat\AuthorizationServer\ResourceServer.API\bin\Debug\netcoreapp2.0\ResourceServer.API.runtimeconfig.dev.json
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\Projekat\AuthorizationServer\ResourceServer.API\bin\Debug\netcoreapp2.0\ResourceServer.API.dll
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\Projekat\AuthorizationServer\ResourceServer.API\bin\Debug\netcoreapp2.0\ResourceServer.API.pdb
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\Projekat\AuthorizationServer\ResourceServer.API\obj\Debug\netcoreapp2.0\ResourceServer.API.csprojResolveAssemblyReference.cache
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\Projekat\AuthorizationServer\ResourceServer.API\obj\Debug\netcoreapp2.0\ResourceServer.API.csproj.CoreCompileInputs.cache
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\Projekat\AuthorizationServer\ResourceServer.API\obj\Debug\netcoreapp2.0\ResourceServer.API.AssemblyInfoInputs.cache
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\Projekat\AuthorizationServer\ResourceServer.API\obj\Debug\netcoreapp2.0\ResourceServer.API.AssemblyInfo.cs
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\Projekat\AuthorizationServer\ResourceServer.API\obj\Debug\netcoreapp2.0\ResourceServer.API.dll
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\Projekat\AuthorizationServer\ResourceServer.API\obj\Debug\netcoreapp2.0\ResourceServer.API.pdb
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Projekat\AuthorizationServer\ResourceServer.API\bin\Debug\netcoreapp2.0\ResourceServer.API.deps.json
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Projekat\AuthorizationServer\ResourceServer.API\bin\Debug\netcoreapp2.0\ResourceServer.API.runtimeconfig.json
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Projekat\AuthorizationServer\ResourceServer.API\bin\Debug\netcoreapp2.0\ResourceServer.API.runtimeconfig.dev.json
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Projekat\AuthorizationServer\ResourceServer.API\bin\Debug\netcoreapp2.0\ResourceServer.API.dll
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Projekat\AuthorizationServer\ResourceServer.API\bin\Debug\netcoreapp2.0\ResourceServer.API.pdb
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Projekat\AuthorizationServer\ResourceServer.API\obj\Debug\netcoreapp2.0\ResourceServer.API.csprojResolveAssemblyReference.cache
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Projekat\AuthorizationServer\ResourceServer.API\obj\Debug\netcoreapp2.0\ResourceServer.API.csproj.CoreCompileInputs.cache
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Projekat\AuthorizationServer\ResourceServer.API\obj\Debug\netcoreapp2.0\ResourceServer.API.AssemblyInfoInputs.cache
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Projekat\AuthorizationServer\ResourceServer.API\obj\Debug\netcoreapp2.0\ResourceServer.API.AssemblyInfo.cs
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Projekat\AuthorizationServer\ResourceServer.API\obj\Debug\netcoreapp2.0\ResourceServer.API.dll
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Projekat\AuthorizationServer\ResourceServer.API\obj\Debug\netcoreapp2.0\ResourceServer.API.pdb
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Project\Single Sign-On Solution\ResourceServer.API\bin\Debug\netcoreapp2.0\ResourceServer.API.deps.json
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Project\Single Sign-On Solution\ResourceServer.API\bin\Debug\netcoreapp2.0\ResourceServer.API.runtimeconfig.json
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Project\Single Sign-On Solution\ResourceServer.API\bin\Debug\netcoreapp2.0\ResourceServer.API.runtimeconfig.dev.json
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Project\Single Sign-On Solution\ResourceServer.API\bin\Debug\netcoreapp2.0\ResourceServer.API.dll
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Project\Single Sign-On Solution\ResourceServer.API\bin\Debug\netcoreapp2.0\ResourceServer.API.pdb
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Project\Single Sign-On Solution\ResourceServer.API\obj\Debug\netcoreapp2.0\ResourceServer.API.csprojResolveAssemblyReference.cache
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Project\Single Sign-On Solution\ResourceServer.API\obj\Debug\netcoreapp2.0\ResourceServer.API.csproj.CoreCompileInputs.cache
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Project\Single Sign-On Solution\ResourceServer.API\obj\Debug\netcoreapp2.0\ResourceServer.API.AssemblyInfoInputs.cache
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Project\Single Sign-On Solution\ResourceServer.API\obj\Debug\netcoreapp2.0\ResourceServer.API.AssemblyInfo.cs
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Project\Single Sign-On Solution\ResourceServer.API\obj\Debug\netcoreapp2.0\ResourceServer.API.dll
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Project\Single Sign-On Solution\ResourceServer.API\obj\Debug\netcoreapp2.0\ResourceServer.API.pdb

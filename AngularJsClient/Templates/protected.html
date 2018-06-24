@@ -1,0 +1,46 @@
+<div class="container">
+        <div class="row">
+            <div class="col-lg-12">
+                    <h1 class="text-center">Zaštičena stranica - Korisnik je prijavljen</h1>
+                    <h1 class="text-center">Dobrodošao: {{authenticatedUserName}}</h1>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                    <h3 class="text-center">Informacije o Access Tokenu i Id Tokenu</h3>
+                    <pre>
+                        {{access_id_tokens}}
+                    </pre>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-6">
+                    <h3 class="text-center">Dekodirani Access Token</h3>
+                    <pre>
+                        {{access_token_decoded}}
+                    </pre>
+            </div>
+            <div class="col-lg-6">
+                <h3 class="text-center">Dekodirani Id Token</h3>
+                <pre>
+                    {{id_token_decoded}}
+                </pre>
+        </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                    <h3 class="text-center">Informacije o korisniku sa <i>"/connect/userinfo"</i> endpointa autorizacijskog servera</h3>
+                    <pre>
+                        {{user}}
+                    </pre>
+            </div>
+        </div>
+        <div class="row">
+            <div class="col-lg-12">
+                    <h3 class="text-center">Odgovor od Resource Servera nakon upita na <i>"/identity"</i> endpoint</h3>
+                    <pre>
+                        {{serverResponse}}
+                    </pre>
+            </div>
+        </div>
+    </div>

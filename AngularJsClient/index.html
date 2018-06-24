@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html ng-app="angularjsclient">
+
+<head>
+    <title>Company Photos App</title>
+    <meta charset="utf-8">
+    <base href="/" />
+    <!--<link rel="stylesheet" href="node_modules/angular-material/angular-material.min.css">
+    <link rel="stylesheet" href="libs/font-awesome/css/font-awesome.min.css">-->
+
+    <!-- npm dependencies -->
+    <script src="node_modules/angular/angular.min.js"></script>
+    <script src="node_modules/angular-route/angular-route.min.js"></script>
+    <script src="node_modules/ngstorage/ngStorage.min.js"></script>
+    <script src="node_modules/angular-resource/angular-resource.min.js"></script>
+    <script src="node_modules/angular-md5/angular-md5.min.js"></script>
+    <script src="node_modules/jquery/dist/jquery.min.js"></script>
+    <script src="node_modules/bootstrap/dist/js/bootstrap.min.js"></script>
+    <link rel="stylesheet" href="node_modules/bootstrap/dist/css/bootstrap.min.css">  
+    <link rel="stylesheet" href="node_modules/font-awesome/css/font-awesome.min.css"> 
+
+    <script src="node_modules/angularjs-oauth2/dist/angularJsOAuth2.js"></script>
+    <script src="node_modules/jwt-decode/build/jwt-decode.min.js"></script>
+
+    <link rel="stylesheet" href="css/main.css">
+
+    <script src="app.js"></script>
+    <script src="Controllers/MainAppController.js"></script>
+    <script src="Controllers/HomeController.js"></script>
+    <script src="Controllers/AboutController.js"></script>
+    <script src="Controllers/ContactController.js"></script>
+    <script src="Controllers/ProtectedController.js"></script>
+</head>
+<body>
+    <div ng-controller="MainAppController">  
+    
+        <nav id="mainNav" class="navbar navbar-default navbar-fixed-top">
+            <div class="container-fluid">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="navbar-header">
+                    <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                        <span class="sr-only">Toggle navigation</span> Menu <i class="fa fa-bars"></i>
+                    </button>
+                    <div>
+                        <a class="navbar-brand" href="/"><i><strong>Company Photos</strong></i></a>
+                    </div>
+                </div>
+    
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav navbar-right">
+                        <li class="nav-item">
+                            <a class="page-scroll" href="/">Home</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="page-scroll" href="#!/protected">Protected Page</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="page-scroll" href="#!/about">About</a>
+                        </li>
+                        <li class="nav-item">
+                            <a class="page-scroll" href="#!/contact">Contact</a>
+                        </li>
+                        <li class="nav-item">
+                            
+                                <oauth2 authorization-url="http://localhost:5000/connect/authorize"
+                                        sign-out-url="http://localhost:5000/connect/endsession"
+                                        sign-out-append-token="true"
+                                        sign-out-redirect-url="http://localhost:8303"
+                                        client-id="company_photos_web_app"
+                                        redirect-url="http://localhost:8303"
+                                        response-type="id_token token"
+                                        button-class="btn page-scroll"
+                                        scope="openid profile email company_photos_api_server">
+                                </oauth2>
+                            
+                        </li>
+                    </ul>
+                </div>
+                <!-- /.navbar-collapse -->
+            </div>
+            <!-- /.container-fluid -->
+        </nav>
+
+    <div class="padding-fix" ng-view></div>    
+    </div>
+
+    <!-- Footer -->
+    <footer class="footer">
+            <div class="container">
+                <div class="row">
+                    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                        <p class="copyright text-muted text-center">Copyright &copy; Ragib Smajić 2018</p>
+                    </div>
+                </div>
+            </div>
+    </footer>
+</body>
+</html>

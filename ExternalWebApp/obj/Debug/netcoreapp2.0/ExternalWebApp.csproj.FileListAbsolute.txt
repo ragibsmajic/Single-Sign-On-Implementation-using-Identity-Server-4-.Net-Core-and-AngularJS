@@ -1,0 +1,36 @@
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\Projekat\AuthorizationServer\ExternalWebApp\bin\Debug\netcoreapp2.0\ExternalWebApp.deps.json
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\Projekat\AuthorizationServer\ExternalWebApp\bin\Debug\netcoreapp2.0\ExternalWebApp.runtimeconfig.json
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\Projekat\AuthorizationServer\ExternalWebApp\bin\Debug\netcoreapp2.0\ExternalWebApp.runtimeconfig.dev.json
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\Projekat\AuthorizationServer\ExternalWebApp\bin\Debug\netcoreapp2.0\ExternalWebApp.dll
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\Projekat\AuthorizationServer\ExternalWebApp\bin\Debug\netcoreapp2.0\ExternalWebApp.pdb
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\Projekat\AuthorizationServer\ExternalWebApp\obj\Debug\netcoreapp2.0\ExternalWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\Projekat\AuthorizationServer\ExternalWebApp\obj\Debug\netcoreapp2.0\ExternalWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\Projekat\AuthorizationServer\ExternalWebApp\obj\Debug\netcoreapp2.0\ExternalWebApp.AssemblyInfoInputs.cache
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\Projekat\AuthorizationServer\ExternalWebApp\obj\Debug\netcoreapp2.0\ExternalWebApp.AssemblyInfo.cs
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\Projekat\AuthorizationServer\ExternalWebApp\obj\Debug\netcoreapp2.0\ExternalWebApp.dll
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\Projekat\AuthorizationServer\ExternalWebApp\obj\Debug\netcoreapp2.0\ExternalWebApp.pdb
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\Projekat\AuthorizationServer\ExternalWebApp\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Projekat\AuthorizationServer\ExternalWebApp\bin\Debug\netcoreapp2.0\ExternalWebApp.deps.json
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Projekat\AuthorizationServer\ExternalWebApp\bin\Debug\netcoreapp2.0\ExternalWebApp.runtimeconfig.json
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Projekat\AuthorizationServer\ExternalWebApp\bin\Debug\netcoreapp2.0\ExternalWebApp.runtimeconfig.dev.json
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Projekat\AuthorizationServer\ExternalWebApp\bin\Debug\netcoreapp2.0\ExternalWebApp.dll
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Projekat\AuthorizationServer\ExternalWebApp\bin\Debug\netcoreapp2.0\ExternalWebApp.pdb
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Projekat\AuthorizationServer\ExternalWebApp\obj\Debug\netcoreapp2.0\ExternalWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Projekat\AuthorizationServer\ExternalWebApp\obj\Debug\netcoreapp2.0\ExternalWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Projekat\AuthorizationServer\ExternalWebApp\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Projekat\AuthorizationServer\ExternalWebApp\obj\Debug\netcoreapp2.0\ExternalWebApp.AssemblyInfoInputs.cache
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Projekat\AuthorizationServer\ExternalWebApp\obj\Debug\netcoreapp2.0\ExternalWebApp.AssemblyInfo.cs
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Projekat\AuthorizationServer\ExternalWebApp\obj\Debug\netcoreapp2.0\ExternalWebApp.dll
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Projekat\AuthorizationServer\ExternalWebApp\obj\Debug\netcoreapp2.0\ExternalWebApp.pdb
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Project\Single Sign-On Solution\ExternalWebApp\bin\Debug\netcoreapp2.0\ExternalWebApp.deps.json
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Project\Single Sign-On Solution\ExternalWebApp\bin\Debug\netcoreapp2.0\ExternalWebApp.runtimeconfig.json
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Project\Single Sign-On Solution\ExternalWebApp\bin\Debug\netcoreapp2.0\ExternalWebApp.runtimeconfig.dev.json
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Project\Single Sign-On Solution\ExternalWebApp\bin\Debug\netcoreapp2.0\ExternalWebApp.dll
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Project\Single Sign-On Solution\ExternalWebApp\bin\Debug\netcoreapp2.0\ExternalWebApp.pdb
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Project\Single Sign-On Solution\ExternalWebApp\obj\Debug\netcoreapp2.0\ExternalWebApp.csprojResolveAssemblyReference.cache
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Project\Single Sign-On Solution\ExternalWebApp\obj\Debug\netcoreapp2.0\ExternalWebApp.csproj.CoreCompileInputs.cache
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Project\Single Sign-On Solution\ExternalWebApp\obj\Debug\netcoreapp2.0\UserSecretsAssemblyInfo.cs
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Project\Single Sign-On Solution\ExternalWebApp\obj\Debug\netcoreapp2.0\ExternalWebApp.AssemblyInfoInputs.cache
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Project\Single Sign-On Solution\ExternalWebApp\obj\Debug\netcoreapp2.0\ExternalWebApp.AssemblyInfo.cs
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Project\Single Sign-On Solution\ExternalWebApp\obj\Debug\netcoreapp2.0\ExternalWebApp.dll
+C:\Users\Ragib Smajic\Desktop\Master Zavrsni\BitBucketRepo\Project\Single Sign-On Solution\ExternalWebApp\obj\Debug\netcoreapp2.0\ExternalWebApp.pdb
